@@ -31,7 +31,7 @@ import { LocalStorageUtil, ToolsUtil } from '@/common/utils'
 import themeColor from '@/assets/plugins/themeColor'
 import { win } from '@/common/base'
 
-const { mapState } = createNamespacedHelpers('DvueemoConstructStore')
+const { mapState } = createNamespacedHelpers('DemoConstructStore')
 declare const window:win
 
 export default defineComponent({
