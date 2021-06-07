@@ -14,7 +14,7 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'app-sub-index',
+  name: 'seeai-vue-template-index',
   setup () {
     return {
     }
