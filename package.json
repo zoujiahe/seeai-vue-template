@@ -2,6 +2,8 @@
   "name": "seeai-template",
   "version": "0.1.0",
   "description": "SEEAI通用vue项目模板",
+  "mainBase": "m",
+  "mainLayoutIndex": "/course-manage/profession-list",
   "private": true,
   "scripts": {
     "start": "vue-cli-service serve",
