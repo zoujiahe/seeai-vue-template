@@ -178,17 +178,6 @@ nc相关
     |- .npmrc                                        npm变量配置
     |- .yarnrc                                       yarn变量配置
 ```
-## 部署情况
-### 常规部署
-1. 主应用：http://xxx.com/﻿micro-app-main/
-2. 子应用：http://xxx.com/app-sub/
-3. 其他子应用以此类推
-
-### 更换部署目录
-全局替换<b>micro-app-main</b>等目录关键字即可。
-
-> 主应用和微应用分别单独部署即可,自成一体。 
-
 
 ## tag介绍
 + v1.0.0 一键初始化SEEAI通用vue3应用模板
